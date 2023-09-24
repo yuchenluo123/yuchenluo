@@ -2,6 +2,7 @@
 main:
   - title: "CV"
     url: /files/CV_September_2023.pdf
-
+    class: "cv-link"
+    
   - title: "RESEARCH"
     url: /talks/
