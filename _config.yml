@@ -12,11 +12,11 @@ title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 #url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-url                      : https://yuchenluo123.github.io/yuchenluo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-url2                     : https://github.com/yuchenluo123/yuchenluo.github.io/blob/master
+url                      : https://yuchenluo123.github.io/yuchenluo # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url2                     : https://github.com/yuchenluo123/yuchenluo/blob/master
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-#repository               : "academicpages/yuchenluo.github.io"
-repository               : "yuchenluo123.github.io/yuchenluo.github.io"
+repository               : "academicpages/yuchenluo.github.io"
+#repository               : "yuchenluo123.github.io/yuchenluo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
