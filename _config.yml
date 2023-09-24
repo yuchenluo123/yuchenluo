@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yuchen Luo"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yuchen Luo"
 description              : &description "personal description"
 #url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 url                      : https://yuchenluo123.github.io/yuchenluo # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
