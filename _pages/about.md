@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-Hi, I'm Yuchen Luo, a Ph.D. candidate at the University of Arkansas, and expect to complete my Ph.D. degree requirements by May 2024. I am on the Academic Job Market in 2023. My primary research interest includes empirical investment and corporate finance.
+Hi, I'm Yuchen Luo, a Ph.D. candidate in Finance at the University of Arkansas, and expect to complete my Ph.D. degree requirements by May 2024. I am on the Academic Job Market in 2023. My primary research interest includes empirical investment and corporate finance.
 </p>
 
 <p style="text-align: justify;">
