@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: "/files/CV_September_2023.pdf"
+    url: "/files/CV_September_2023.pdf/"
 
   - title: "RESEARCH"
     url: /talks/    
