@@ -42,7 +42,8 @@
 }
 
 .masthead__menu-item {
-  display: block;
+  #display: block;
+  display: inline-block; /* Change to inline or inline-block */
   list-style-type: none;
   white-space: nowrap;
 
@@ -51,3 +52,4 @@
     font-weight: 700;
   }
 }
+
