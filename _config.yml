@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "Yuchen Luo"
 title_separator          : "-"
 name                     : &name "Yuchen Luo"
 description              : &description "personal description"
@@ -118,6 +118,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  ssrn             : "https://scholar.google.com/citations?hl=en&user=ZnjMAQ0AAAAJ"
 
 
 # Reading Files
