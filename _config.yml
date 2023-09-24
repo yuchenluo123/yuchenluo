@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuchen Luo"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Yuchen Luo"
 description              : &description "personal description"
